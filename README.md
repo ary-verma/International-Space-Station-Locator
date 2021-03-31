@@ -3,7 +3,7 @@ This is a system that locates the International Space Station (ISS) and provides
 
 Plot:
 
-![image](https://user-images.githubusercontent.com/64376922/113132403-07b61a80-923c-11eb-9df6-a392b855f18a.png)
+![image](https://user-images.githubusercontent.com/64376922/113132889-aa6e9900-923c-11eb-85d7-71a4ce9b42a9.png)
 
 The above image shows the location where the timestamp is 2021-03-31 10:40:33.
 
